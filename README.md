@@ -4,4 +4,4 @@
     <img src="https://i.imgur.com/CCqet4D.png" width="200" height="200">
   </a>
 </div>
-<div style="background-image: 'https://i.imgur.com/hZewoCP.jpg';">
+<div style="background-image:"https://i.imgur.com/hZewoCP.jpg";">
